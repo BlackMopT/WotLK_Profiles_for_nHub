@@ -108,4 +108,3 @@ Watch video below
 * **[PQR DarhangeR 1.8.1](https://github.com/darhanger/PQR_DarhangeR_3.3.5a)** (UNSUPPORTED NOW).
 * **[PQRotation for HWoW 1.2](https://github.com/darhanger/PQR_H-WoW)** (UNSUPPORTED NOW) - For [Heroes WoW](https://heroes-wow.com/) Only.
 * **Sirus Profiles for nHub** - Для более детальной информации обратитесь в ПМ.
-* **Sana WoW Profiles for nHub** - For more info just PM me. Profiles only for [Sana-WoW](https://sana-wow.com/).
